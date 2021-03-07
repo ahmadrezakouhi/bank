@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="../css/font.css">
 </head>
 <body>
-<?php include '../includes/navbar.php'?>
+<?php include '../includes/user/navbar.php'?>
 <script src="../js/jquery-3.5.1.min.js"></script>
 <script src="../js/bootstrap.bundle.min.js"></script>
 </body>
