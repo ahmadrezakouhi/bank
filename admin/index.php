@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>login</title>
+    <title>افزودن کاربر</title>
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/font.css">
     <style>
@@ -97,6 +97,37 @@
             </div>
         </div>
     </form>
+
+
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-striped mt-5" dir="rtl">
+           <thead>
+           <tr class="persian text-right">
+               <th>نام</th>
+               <th>نام خانوادگی</th>
+               <th>کد پرسنلی</th>
+               <th>تحصیلات</th>
+               <th>سمت سازمانی</th>
+               <th>حوزه حراست</th>
+               <th>شماره موبایل</th>
+               <th> ادمین</th>
+           </tr>
+           </thead>
+        </table>
+    </div>
+
+
+
+    <ul class="pagination mt-3 justify-content-center">
+        <li class="page-item"><a class="page-link persian" href="#">قبلی</a></li>
+        <li class="page-item"><a class="page-link" href="#">1</a></li>
+        <li class="page-item"><a class="page-link" href="#">2</a></li>
+        <li class="page-item"><a class="page-link" href="#">3</a></li>
+        <li class="page-item"><a class="page-link persian" href="#">بعدی</a></li>
+    </ul>
+
+
 </div>
 <script src="../js/jquery-3.5.1.min.js"></script>
 <script src="../js/bootstrap.bundle.min.js"></script>
