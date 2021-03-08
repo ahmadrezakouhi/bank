@@ -13,11 +13,11 @@
     </button>
 
     <div class="collapse navbar-collapse  flex-row-reverse" id="collapsibleNavbar">
-        <ul class="navbar-nav ">
-            <li class="nav-item order-1 active">
+        <ul class="navbar-nav d-flex">
+            <li class="nav-item order-md-2 active">
                 <a class="nav-link text-right persian" href="#">افزودن کاربر <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item order-2">
+            <li class="nav-item order-md-1">
                 <a class="nav-link text-right persian" href="#">گزارش گیری</a>
             </li>
 
