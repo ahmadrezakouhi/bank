@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-info shadow">
     <div class="dropdown">
         <a class="navbar-brand  dropdown-toggle" href="#" data-toggle="dropdown">
-            <img src="../img" class="img-fluid rounded-circle" alt="" style="width: 40px">
+            <img src="../img/img_avatar1.png" class="img-fluid rounded-circle" alt="" style="width: 40px">
         </a>
         <div class="dropdown-menu">
             <a class="dropdown-item persian text-right text-danger" href="#">خروج</a>
