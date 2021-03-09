@@ -5,21 +5,22 @@
         </a>
         <div class="dropdown-menu">
             <a class="dropdown-item persian text-right text-danger" href="#">خروج</a>
+            <a class="dropdown-item persian text-right " href="#">تغییر رمز عبور</a>
 
         </div>
     </div>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" >
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-                <a class="nav-link text-right" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-right" href="#">Link</a>
-            </li>
+    <div class="collapse navbar-collapse flex-row-reverse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+<!--            <li class="nav-item order-1 active">-->
+<!--                <a class="nav-link text-right" href="#">Home <span class="sr-only">(current)</span></a>-->
+<!--            </li>-->
+<!--            <li class="nav-item order-2">-->
+<!--                <a class="nav-link text-right" href="#">Link</a>-->
+<!--            </li>-->
 
         </ul>
 
