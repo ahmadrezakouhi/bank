@@ -15,12 +15,12 @@
 
     <div class="collapse navbar-collapse flex-row-reverse" id="collapsibleNavbar">
         <ul class="navbar-nav">
-<!--            <li class="nav-item order-1 active">-->
-<!--                <a class="nav-link text-right" href="#">Home <span class="sr-only">(current)</span></a>-->
-<!--            </li>-->
-<!--            <li class="nav-item order-2">-->
-<!--                <a class="nav-link text-right" href="#">Link</a>-->
-<!--            </li>-->
+            <li class="nav-item order-md-2 active">
+                <a class="nav-link text-right" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item order-md-1">
+                <a class="nav-link text-right" href="#">Link</a>
+            </li>
 
         </ul>
 
